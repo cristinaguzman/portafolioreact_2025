@@ -25,7 +25,7 @@ export default {
         background: "#c5fcee",
         foreground: "#4e8075",
         primary: {
-          DEFAULT: "#d65db1",
+          DEFAULT: "#007f93",
           foreground: "#ffffff",
         },
         secondary: {
@@ -33,7 +33,7 @@ export default {
           foreground: "#ffffff",
         },
         destructive: {
-          DEFAULT: "#d65db1",
+          DEFAULT: "#007f93",
           foreground: "#ffffff",
         },
         muted: {
@@ -55,7 +55,7 @@ export default {
         sidebar: {
           DEFAULT: "#c5fcee",
           foreground: "#4e8075",
-          primary: "#d65db1",
+          primary: "#007f93",
           "primary-foreground": "#ffffff",
           accent: "#66baa8",
           "accent-foreground": "#ffffff",
